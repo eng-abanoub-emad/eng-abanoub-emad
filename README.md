@@ -25,7 +25,7 @@
 
 ## 👤 About Me
 
-- 🎓 **Computer Engineering Graduate** — Menoufia University, Class of 2026
+- 🎓 **Computer Engineering Graduate** — Faculte of ELectronic Engineering, Menoufia University.
 - 📌 Focused on **Data Engineering**, **Business Intelligence**, and **Machine Learning**
 - 🔧 Experienced with end-to-end data pipelines, ETL workflows, BI dashboards, and ML model deployment
 - ☁️ Hands-on with **Docker**, **Azure Kubernetes Service (AKS)**, and cloud infrastructure
@@ -37,7 +37,6 @@
 
 ### 👁️ Blind Safety Assistant *(Graduation Project)*
 > Real-time navigation & contextual analysis system for the visually impaired
-- Built with advanced **Deep Learning** (object detection & scene understanding)
 - **Containerized** with Docker for reproducibility and portability
 - **Deployed on cloud** via **Azure Kubernetes Service (AKS)** & **Azure Container Registry (ACR)**
 - Designed for real-world accessibility impact
