@@ -25,11 +25,11 @@
 
 ## 👤 About Me
 
-- 🎓 **Computer Engineering Graduate** — Faculte of ELectronic Engineering, Menoufia University.
+- 🎓 **Computer Engineering Graduate** — Faculty of ELectronic Engineering, Menoufia University.
 - 📌 Focused on **Data Engineering**, **Business Intelligence**, and **Machine Learning**
 - 🔧 Experienced with end-to-end data pipelines, ETL workflows, BI dashboards, and ML model deployment
 - ☁️ Hands-on with **Docker**, **Azure Kubernetes Service (AKS)**, and cloud infrastructure
-- 🇯🇴 Based in Egypt &mdash; open to remote & on-site opportunities
+- 🇪🇬 Based in Egypt &mdash; open to remote & on-site opportunities
 
 ---
 
