@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abanoub Emad 👋</h1>
-<h3 align="center">Computer Engineering Student | Python Instructor | Data Engineering & ML Enthusiast</h3>
+<h3 align="center">Computer Engineering Student |  Data Engineering ,BI Developer and ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abanoub10/" target="_blank">
