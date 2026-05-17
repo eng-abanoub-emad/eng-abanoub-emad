@@ -1,72 +1,91 @@
-<h1 align="center">Hi, I'm Abanoub Emad 👋</h1>
+<div align="center">
 
-<h3 align="center">Computer Engineering Student | Aspiring Data Analyst & BI Developer | ML Learner</h3>
+# Hi, I'm Abanoub Emad 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abanoub10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Emad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/abanoubemad647" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
-  <a href="mailto:abanoub.emad.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 🎓 Computer Engineering Student | 📊 Aspiring Data Engineer & BI Developer | 🧠 ML Learner
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abanoub%20Emad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub10/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abanoubemad647)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abanoub.emad.pro@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+## 👤 About Me
 
-- Final-year **Computer Engineering** student at Menoufia University (graduating June 2026)
-- **Python & AI Instructor** at I-Coder Academy
-- Interested in **Data Analysis**, **Business Intelligence**, and **Data Engineering**
-- Focused on building practical skills through learning and hands-on experimentation
-- Based in Egypt
-
----
-
-## Currently Learning & Practicing
-
-- SQL for data analysis and database querying
-- Power BI for dashboards and business reporting
-- Python libraries: Pandas, NumPy, Matplotlib, Seaborn
-- Data cleaning, transformation, and ETL fundamentals
-- Machine learning basics and computer vision fundamentals
-- Snowflake for data warehousing
+- 🎓 Final-year **Computer Engineering** student at Menoufia University *(graduating June 2026)*
+- 📌 Interested in **Data Engineering**, **Business Intelligence**, and **Machine Learning**
+- 🔍 Focused on building practical skills through learning and hands-on experimentation
+- 🇯🇴 Based in Egypt
 
 ---
 
-## Practice Work
+## 📚 Currently Learning & Practicing
 
-- Small data analysis projects using Python
-- Power BI dashboards and reporting practice
-- SQL exercises and database tasks
-- A **computer vision graduation project** in progress (visually impaired navigation using YOLO)
-
----
-
-## Tech Stack
-
-**Languages:** Python, SQL, JavaScript, Java, C++  
-**Data & BI:** Pandas, NumPy, Excel, Power BI, SQL Server  
-**ML Basics:** Scikit-learn, TensorFlow, PyTorch  
-**Tools:** Snowflake, Git, Streamlit, VS Code
+| Area | Topics |
+|------|--------|
+| 🗄️ Data Engineering | SQL, ETL fundamentals, Snowflake, data pipelines |
+| 📊 Business Intelligence | Power BI dashboards, Excel, data reporting |
+| 🐍 Python | Pandas, NumPy, Matplotlib, Seaborn |
+| 🧠 Machine Learning | Scikit-learn, model building basics, computer vision |
 
 ---
 
-## Certifications
+## 🛠️ Practice Work
 
-- ITI Business Intelligence Development
-- DEPI Data Science and AI
-- AI Intern — IEEE Menoufia University Student Branch
-
----
-
-## Open To
-
-Internships | Junior Data Analyst | BI Developer | Entry-level Data Engineering roles
+- 📌 Small **data engineering** and analysis projects using Python & SQL
+- 📊 **Power BI** dashboards and reporting practice
+- 🗄️ SQL query exercises and database tasks
+- 👁️ **Computer vision graduation project** in progress — visually impaired navigation system using YOLO
 
 ---
 
-<p align="center">📍 Egypt &nbsp;|&nbsp; 📧 abanoub.emad.pro@gmail.com</p>
+## 💻 Tech Stack
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Data & BI:**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**ML & Tools:**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+- 📜 ITI Business Intelligence Development
+- 📜 DEPI Data Science and AI
+- 📜 AI Intern — IEEE Menoufia University Student Branch
+
+---
+
+## 🚀 Open To
+
+> Internships &nbsp;|&nbsp; Junior Data Engineer &nbsp;|&nbsp; BI Developer &nbsp;|&nbsp; Data Analyst roles
+
+---
+
+<div align="center">
+
+📍 **Menouf, Egypt** &nbsp;&nbsp;|📧 **abanoub.emad.pro@gmail.com**
+
+</div>
