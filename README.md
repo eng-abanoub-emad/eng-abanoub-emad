@@ -67,8 +67,8 @@
 **Data Engineering & Warehousing**
 
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
-![SSAS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
