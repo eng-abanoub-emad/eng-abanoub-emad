@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Abanoub Emad Attia 👋</h1>
+<h1>Hi, I'm Abanoub Emad 👋</h1>
 
 <h3>🎓 Computer Engineering Graduate &nbsp;|&nbsp; 📊 Data Engineer &nbsp;|&nbsp; 🧠 BI & ML Developer</h3>
 
